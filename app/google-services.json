@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "296695255775",
+    "firebase_url": "https://analytics-mini-project-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "analytics-mini-project",
+    "storage_bucket": "analytics-mini-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296695255775:android:6eb0416429b65d1f0d8f6a",
+        "android_client_info": {
+          "package_name": "com.mbanking.m_banking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296695255775-3q72f76h8roabm5kmm1hk7teqi4qhacp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mbanking.m_banking",
+            "certificate_hash": "c171936cac74c1fd092b9e7e4f748e2cb38874f8"
+          }
+        },
+        {
+          "client_id": "296695255775-cf5lk0lfqh6a05eg1ah9ctueppr3k91j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mbanking.m_banking",
+            "certificate_hash": "079366083a34539b1764a288be0fbf34b50654b8"
+          }
+        },
+        {
+          "client_id": "296695255775-v1vm3gkjecc8r6tb8qtoi4a5g9nq06tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbrvjLnu21LM83x_4kSnsni0nY7Q9YVYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296695255775-v1vm3gkjecc8r6tb8qtoi4a5g9nq06tq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "296695255775-prtjtcq682g34loc1clbu824it25g770.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sendo.FirebaseAnalytics-Demo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296695255775:android:169075674c717f5c0d8f6a",
+        "android_client_info": {
+          "package_name": "com.testcase.tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296695255775-9bpg48k51sqrmba2rt3176a00fndqhl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testcase.tutorial",
+            "certificate_hash": "c171936cac74c1fd092b9e7e4f748e2cb38874f8"
+          }
+        },
+        {
+          "client_id": "296695255775-n9idcm9cvnd3lnn4cmqr3sli3051k5vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testcase.tutorial",
+            "certificate_hash": "079366083a34539b1764a288be0fbf34b50654b8"
+          }
+        },
+        {
+          "client_id": "296695255775-v1vm3gkjecc8r6tb8qtoi4a5g9nq06tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbrvjLnu21LM83x_4kSnsni0nY7Q9YVYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296695255775-v1vm3gkjecc8r6tb8qtoi4a5g9nq06tq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "296695255775-prtjtcq682g34loc1clbu824it25g770.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sendo.FirebaseAnalytics-Demo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

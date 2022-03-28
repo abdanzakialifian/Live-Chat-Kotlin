@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">M-Banking</string>
+    <string name="login_illustration">Login Illustration</string>
+    <string name="sign_up_with_google">Sign up with Google</string>
+    <string name="home">Home</string>
+    <string name="chat">Chat</string>
+    <string name="transfer">Transfer</string>
+    <string name="sign_in_failed">Google Sign In Failed.</string>
+    <string name="image_profile">Image Profile</string>
+    <string name="image_logout">Image Logout</string>
+    <string name="good_morning">Selamat Pagi,</string>
+    <string name="good_afternoon">Selamat Siang,</string>
+    <string name="good_evening">Selamat Malam,</string>
+    <string name="custom_web_client_id">296695255775-v1vm3gkjecc8r6tb8qtoi4a5g9nq06tq.apps.googleusercontent.com</string>
+    <string name="are_you_sure_go_out">Apakah kamu yakin ingin keluar?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="floating_action_button_message">Floating Action Button Message</string>
+    <string name="image_arrow_back">Image Arrow Back</string>
+    <string name="write_a_message">Menulis pesan</string>
+    <string name="image_send">Image Send</string>
+    <string name="bank">Bank</string>
+    <string name="no_rekening">No Rekening</string>
+    <string name="amount">Jumlah</string>
+    <string name="send">Kirim</string>
+    <string name="success">Berhasil!</string>
+    <string name="not_available_features">Oops fitur ini belum tersedia.</string>
+    <string name="cancel">Batal</string>
+    <string name="choose_bank">Pilih Bank</string>
+    <string name="confirmation">Konfirmasi</string>
+    <string name="ok">OK</string>
+    <string name="enter_email">Masukkan Email</string>
+    <string name="delete">Hapus</string>
+    <string name="are_you_sure_delete_it">Apakah kamu yakin ingin menghapusnya?</string>
+    <string name="email_not_found">Email tidak ditemukan.</string>
+
+    <string-array name="items">
+        <item>BRI</item>
+        <item>BNI</item>
+        <item>BCA</item>
+        <item>Mandiri</item>
+        <item>MNC Bank</item>
+        <item>BTN</item>
+        <item>Danamon</item>
+        <item>Bank Permata</item>
+    </string-array>
+</resources>
